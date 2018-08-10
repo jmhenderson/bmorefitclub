@@ -29,6 +29,12 @@ a:hover {
   color: #F01000;
 }
 
+.content-text { 
+    font-size: 1.3rem
+    
+}
+
+
 h1,
 h2,
 h3,
@@ -60,6 +66,7 @@ section {
 
 .section-heading {
   margin-top: 0;
+    font-size: 3rem;
 }
 
 ::-moz-selection {
@@ -189,7 +196,7 @@ header.masthead hr {
 }
 
 header.masthead h1 {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 header.masthead p {
@@ -198,7 +205,7 @@ header.masthead p {
 
 @media (min-width: 768px) {
   header.masthead p {
-    font-size: 1.15rem;
+    font-size: 2.5rem;
   }
 }
 
