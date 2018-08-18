@@ -246,7 +246,10 @@ header.masthead p {
   max-width: 400px;
 }
 
-.prices-box {padding: 40px}
+.prices-box {padding: 40px; width: 100%}
+
+.price-card {
+}
 
 .portfolio-box {
   position: relative;
@@ -345,4 +348,13 @@ header.masthead p {
     max-width: 100%;
     vertical-align: middle;
     float:none;
+}
+
+.centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.contact{
+    padding: 0px
 }
